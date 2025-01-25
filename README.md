@@ -12,3 +12,6 @@ https://raw.githubusercontent.com/usokoto/bases/refs/heads/main/bisness_part1.cs
 https://raw.githubusercontent.com/usokoto/bases/refs/heads/main/bisness_part2.csv
 https://raw.githubusercontent.com/usokoto/bases/main/1_part1.csv
 https://raw.githubusercontent.com/usokoto/bases/main/1_part2.csv
+
+https://raw.githubusercontent.com/usokoto/bases/main/test_part1.csv
+https://raw.githubusercontent.com/usokoto/bases/main/test_part2.csv
