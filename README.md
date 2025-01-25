@@ -10,3 +10,5 @@ https://raw.githubusercontent.com/platonplaton1488/hahahajsodudjslks/refs/heads/
 https://raw.githubusercontent.com/platonplaton1488/hahahajsodudjslks/refs/heads/main/telegram%20users%20520k%2C%2010k%20numbers_part7.txt
 https://raw.githubusercontent.com/platonplaton1488/hahahajsodudjslks/refs/heads/main/telegram%20users%20520k%2C%2010k%20numbers_part8.txt
 https://raw.githubusercontent.com/platonplaton1488/hahahajsodudjslks/refs/heads/main/telegram%20users%20520k%2C%2010k%20numbers_part9.txt
+https://raw.githubusercontent.com/usokoto/bases/refs/heads/main/bisness_part1.csv
+https://raw.githubusercontent.com/usokoto/bases/refs/heads/main/bisness_part2.csv
