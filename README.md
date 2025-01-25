@@ -15,3 +15,5 @@ https://raw.githubusercontent.com/usokoto/bases/main/1_part2.csv
 
 https://raw.githubusercontent.com/usokoto/bases/main/test_part1.csv
 https://raw.githubusercontent.com/usokoto/bases/main/test_part2.csv
+https://raw.githubusercontent.com/usokoto/bases/main/bases/test_part1.csv
+https://raw.githubusercontent.com/usokoto/bases/main/bases/test_part2.csv
