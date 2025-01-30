@@ -12,5 +12,4 @@ https://raw.githubusercontent.com/usokoto/bases/refs/heads/main/bisness_part1.cs
 https://raw.githubusercontent.com/usokoto/bases/refs/heads/main/bisness_part2.csv
 https://raw.githubusercontent.com/usokoto/bases/main/1_part1.csv
 https://raw.githubusercontent.com/usokoto/bases/main/1_part2.csv
-
-https://raw.githubusercontent.com/usokoto/bases/main/bases/DNS  ДНС Кавказ,вк парсинг 04.12.2022_part1.csv
+https://raw.githubusercontent.com/usokoto/bases/refs/heads/main/bases/DNS%20%20ДНС%20Кавказ%2Cвк%20парсинг%2004.12.2022_part1.csv
